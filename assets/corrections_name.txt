@@ -28,7 +28,7 @@ NewTV金牌综艺,金牌综艺
 NewTV超级综艺,超级综艺
 NewTV黑莓动画,黑莓动画
 NewTV黑莓电影,黑莓电影
-NewTV哒啵电竞,哒啵电竞,NewTV黑莓电竞,黑莓电竞,NewTV哒啵赛事,哒啵赛事
+NewTV哒啵赛事,NewTV哒啵电竞,哒啵电竞,NewTV黑莓电竞,黑莓电竞,哒啵赛事
 
 CHC动作电影,CHC动作电影频道
 CHC影迷电影,CHC影迷电影频道,影迷电影
