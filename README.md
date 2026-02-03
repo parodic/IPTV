@@ -117,6 +117,6 @@ https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/{频道名}.png
 ---
 **祝您使用愉快！** 
 
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="#" align="right">
+<a href="#" style="position: fixed; right: 20px; bottom: 20px; z-index: 999;">
+    <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="返回顶部">
 </a>
