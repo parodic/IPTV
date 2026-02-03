@@ -1,4 +1,4 @@
-# 📺 直播源 & 台标 & EPG 网络采集工具
+# <a id="top"></a>📺 直播源 & 台标 & EPG 网络采集工具
 
 一个免费、轻量、全自动化的直播源、台标 Logo 与 EPG 电子节目指南网络采集同步工具。自动拉取并整合互联网公开资源，格式化输出，适配 IPTV、电视盒子、手机直播 APP 等主流使用场景。
 
@@ -117,6 +117,6 @@ https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/{频道名}.png
 ---
 **祝您使用愉快！** 
 
-<a href="#" style="position: fixed; right: 20px; bottom: 20px; z-index: 999;">
+<a href="#top" align="right">
     <img src="https://img.shields.io/badge/-返回顶部-orange.svg" alt="返回顶部">
 </a>
